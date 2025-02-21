@@ -81,16 +81,12 @@ Creation of practical applications addressing specific needs, such as authentica
   <a href="https://www.linkedin.com/in/ezequiel-rodrigo-saucedo-50451a294" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25"/>
   </a>
-  
-  <br>
-  
+  <br><br>
   <!-- X (Twitter) -->
   <a href="https://x.com/backEzequiel_" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25"/>
   </a>
-  
-  <br>
-  
+  <br><br>
   <!-- Email -->
   <a href="mailto:ezequielrodrigosaucedo@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="25"/>
