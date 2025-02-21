@@ -52,7 +52,7 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
 - Advanced Design Patterns
 - Web Application Security Best Practices
 
-## 💼 Practical Experience / Notable Projects
+## 💼 Practical Experience
 ### RESTful API Development with Node.js, Express, and TypeScript
 Creation of scalable and well-structured APIs, applying best practices such as separation of responsibilities (SOLID).
 
