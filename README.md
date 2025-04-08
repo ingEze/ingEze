@@ -1,8 +1,8 @@
-# 🚀 Backend Developer
+# Backend Developer
 Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on designing and building scalable, efficient, and robust solutions, while continuously expanding and strengthening my technical stack. I combine practical experience with curiosity for new technologies to deliver effective solutions to any challenge.
 
-## ⚡ Tech Stack  
-### 🚀 Languages & Frameworks  
+## Tech Stack  
+### Languages & Frameworks  
 
 <p align="left">
   <a href="https://expressjs.com/" target="_blank">
@@ -16,7 +16,7 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
   </a>
 </p>
 
-### 💾 Databases  
+### Databases  
 <p align="left">
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="100"/>
@@ -32,7 +32,7 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
   </a>
 </p>
 
-### 🔧 Development Tools  
+### Development Tools  
 <p align="left">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="100"/>
@@ -47,12 +47,12 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Microservices Architecture
 - Advanced Design Patterns
 - Web Application Security Best Practices
 
-## 💼 Practical Experience
+## Practical Experience
 ### RESTful API Development with Node.js, Express, and TypeScript
 Creation of scalable and well-structured APIs, applying best practices such as separation of responsibilities (SOLID).
 
@@ -74,7 +74,7 @@ Creation of practical applications addressing specific needs, such as authentica
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 <p align="left">
   <!-- LinkedIn -->
