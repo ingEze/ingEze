@@ -42,15 +42,13 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="100"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="100"/>
   </a>
 </p>
 
 ---
-
-## Currently Learning
-- Microservices Architecture
-- Advanced Design Patterns
-- Web Application Security Best Practices
 
 ## Practical Experience
 ### RESTful API Development with Node.js, Express, and TypeScript
