@@ -48,6 +48,16 @@ Hi! I'm Ezequiel, a software developer specialized in backend. My focus is on de
   </a>
 </p>
 
+### Testing & Code Quality  
+<p align="left">
+  <a href="https://jestjs.io/docs/getting-started" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="100"/>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://eslint.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="100"/>
+  </a>
+</p>
+
 ---
 
 ## Practical Experience
