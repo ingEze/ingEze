@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Developer
+# Backend Developer
 
 Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion for creating scalable, efficient, and robust solutions. My focus is on designing and building systems that not only work but endure and evolve. I combine practical experience with constant curiosity for new technologies to deliver effective solutions to any challenge.
 
