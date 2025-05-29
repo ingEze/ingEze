@@ -139,10 +139,6 @@ An intelligent Telegram bot that combines robust backend functionalities with da
   <img src="https://github-readme-stats.vercel.app/api?username=ingEze&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingEze&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
