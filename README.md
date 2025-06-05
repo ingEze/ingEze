@@ -31,8 +31,8 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="80" height="80"/>
   </a>
-  <a href="https://sequelize.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize (ORM)" width="80" height="80"/>
+  <a href="https://www.prisma.io/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma (ORM)" width="80" height="80"/>
   </a>
   <a href="https://mongoosejs.com/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose (ODM)" width="80" height="80"/>
@@ -130,14 +130,6 @@ An intelligent Telegram bot that combines robust backend functionalities with da
 - **Axios** for external API communication
 - **Python** for specific data processing
 - **Telegram Bot API** for platform integration
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingEze&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ---
 
