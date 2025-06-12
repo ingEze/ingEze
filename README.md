@@ -70,6 +70,12 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
 
 ---
 
+## 🛠️ Databases and Data Modeling Tools
+
+- **MySQL**, **SQLite**, **MongoDB**
+- **Prisma**, **Sequelize** (ORMs for SQL)
+- **Mongoose** (ODM for MongoDB)
+
 ## 💼 Practical Experience
 
 **🔗 RESTful API Development**  
