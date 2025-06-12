@@ -34,6 +34,9 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   <a href="https://www.prisma.io/docs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma (ORM)" width="80" height="80"/>
   </a>
+  <a href="https://sequelize.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize (ORM)" width="80" height="80"/>
+  </a>
   <a href="https://mongoosejs.com/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose (ODM)" width="80" height="80"/>
   </a>
