@@ -31,15 +31,6 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="80" height="80"/>
   </a>
-  <a href="https://www.prisma.io/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma (ORM)" width="80" height="80"/>
-  </a>
-  <a href="https://sequelize.org/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize (ORM)" width="80" height="80"/>
-  </a>
-  <a href="https://mongoosejs.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose (ODM)" width="80" height="80"/>
-  </a>
 </p>
 
 ### Development Tools
@@ -49,9 +40,6 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   </a>
   <a href="https://docs.github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
-  </a>
-  <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="80" height="80"/>
   </a>
   <a href="https://docs.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
