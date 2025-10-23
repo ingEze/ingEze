@@ -1,18 +1,24 @@
 # Backend Developer
 
-Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion for creating scalable, efficient, and robust solutions. My focus is on designing and building systems that not only work but endure and evolve. I combine practical experience with constant curiosity for new technologies to deliver effective solutions to any challenge.
+Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion for creating scalable, efficient, and robust solutions.  
+My focus is on designing and building systems that not only work but endure and evolve.  
+I mainly specialize in backend development, but I also have frontend experience with **Astro**, **HTML**, and **CSS** to create simple and efficient interfaces.
+
+I combine practical experience with constant curiosity for new technologies to deliver effective solutions to any challenge.
+
+---
 
 ## 🚀 Tech Stack
 
-### Languages and Frameworks
+### 🧠 Backend Languages & Frameworks
 <p align="left">
-  <a href="https://nodejs.org/en" target="_blank">
+  <a href="https://nodejs.org/en" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="80" height="80"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
@@ -20,25 +26,25 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   </a>
 </p>
 
-### Databases
+### 💾 Databases
 <p align="left">
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
+  <a href="https://www.mongodb.com/docs/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
   </a>
   <a href="https://www.sqlite.org/docs.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="80" height="80"/>
   </a>
 </p>
 
-### Development Tools
+### ⚙️ Development Tools
 <p align="left">
-  <a href="https://git-scm.com/doc" target="_blank">
+  <a href="https://git-scm.com/doc" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
+  <a href="https://docs.github.com/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
   </a>
   <a href="https://docs.docker.com/" target="_blank">
@@ -46,11 +52,39 @@ Hi! I'm **Ezequiel**, a software developer specialized in backend with a passion
   </a>
 </p>
 
-### Testing
+### 🧪 Testing
 <p align="left">
-  <a href="https://jestjs.io/docs/getting-started" target="_blank">
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="80" height="80"/>
   </a>
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://vitest.dev/logo.svg" alt="Vitest" width="80" height="80"/>
+  </a>
+</p>
+
+### 🧩 API & Middleware Tools
+<p align="left">
+  <a href="https://swagger.io/specification/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="80" height="80"/>
+  </a>
+</p>
+
+### 🎨 Frontend Tools
+<p align="left">
+  <a href="https://astro.build/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="80" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80"/>
+  </a>
+</p>
+
+**Also experienced with:**  
+- Logging tools: `Morgan`, `Winston`  
+- API documentation: `Swagger` (OpenAPI 3.0)
 
 ---
 
@@ -82,7 +116,7 @@ Query optimization, error handling, and web application performance improvement.
 
 ## 🌟 Featured Projects
 
-### 🔍 [txtspy](https://github.com/ingEze/txtspy)
+### 🔍 [@ingeze/txtspy](https://github.com/ingEze/txtspy)
 **CLI tool for text file analysis**
 
 A powerful command-line tool developed in **TypeScript** that allows analyzing text files, generating statistics, extracting code comments, and managing directories efficiently.
@@ -104,25 +138,55 @@ A powerful command-line tool developed in **TypeScript** that allows analyzing t
 ```bash
 npm install -g txtspy
 ```
+---
 
-### 🤖 [GastroBot](https://github.com/ingEze/gastrobot)
-**Telegram bot for gastronomic management**
+### 🛒 [E-commerce API](https://github.com/ingEze/ecommerce-api)
 
-An intelligent Telegram bot that combines robust backend functionalities with data processing capabilities, designed to facilitate management in the gastronomic field.
+**RESTful API e-commerce**
+
+A robust and scalable API built to handle essential e-commerce operations such as product management, user authentication, and order processing — optimized for production and containerized deployment.
 
 **Key features:**
-- Intuitive conversational interface through Telegram
-- Real-time data management
-- Intelligent query processing
-- Hybrid TypeScript/Python architecture
+
+* JWT-based authentication
+* CRUD operations for products, users, and more
+* Middleware for token validation and error handling
+* Swagger documentation for endpoints
+* Docker and Render-ready setup
 
 **Tech stack:**
-- **Node.js & Express** for backend server
-- **TypeScript** for main development
-- **MongoDB with Mongoose** for data persistence
-- **Axios** for external API communication
-- **Python** for specific data processing
-- **Telegram Bot API** for platform integration
+
+* **Node.js & Express** for backend logic
+* **TypeScript** for type safety
+* **MongoDB with Mongoose** for data modeling
+* **Winston & Morgan** for structured logging
+* **Docker** for containerization
+* **Swagger UI** for API documentation
+
+---
+
+### 🛠 [@ingeze/api-error](https://github.com/ingeze/api-error)
+
+**TypeScript library for consistent HTTP error handling**
+
+A comprehensive library designed for seamless error management across Express, NestJS, and Fastify APIs. Provides type-safe error classes, framework-specific middleware, and standardized responses to simplify backend development.
+
+**Key features:**
+
+* Pre-built error classes for common HTTP statuses (400, 401, 403, 404, 422, etc.)
+* Framework integrations for Express, NestJS, and Fastify
+* Type-safe with full TypeScript support
+* Consistent API error responses
+* Customizable and extensible for custom error types
+* Well-tested and reliable
+
+**Tech stack:**
+
+* **TypeScript** for type safety and developer experience
+* **Node.js** runtime
+* **Express, NestJS, Fastify** integrations
+* **Subpath exports** for modular imports
+* **Comprehensive testing** with full coverage
 
 ---
 
