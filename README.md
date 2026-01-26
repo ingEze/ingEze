@@ -31,8 +31,8 @@ I combine practical experience with constant curiosity for new technologies to d
   <a href="https://redis.io/" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="80" height="80"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/WebSocket_Logo.svg" alt="WebSockets" width="80" height="80"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    ⚡ WebSockets
   </a>
 </p>
 
