@@ -26,6 +26,16 @@ I combine practical experience with constant curiosity for new technologies to d
   </a>
 </p>
 
+### ⚡ Real-time & Caching
+<p align="left">
+  <a href="https://redis.io/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="80" height="80"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" alt="WebSockets" width="80" height="80"/>
+  </a>
+</p>
+
 ### 💾 Databases
 <p align="left">
   <a href="https://www.mongodb.com/docs/" target="_blank" style="margin-right: 20px;">
@@ -91,8 +101,10 @@ I combine practical experience with constant curiosity for new technologies to d
 ## 🛠️ Databases and Data Modeling Tools
 
 - **MySQL**, **SQLite**, **MongoDB**
+- **Redis** (caching, pub/sub)
 - **Prisma**, **Sequelize** (ORMs for SQL)
 - **Mongoose** (ODM for MongoDB)
+
 
 ## 💼 Practical Experience
 
